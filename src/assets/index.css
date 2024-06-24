@@ -1,0 +1,15 @@
+* {
+  font-family: serif !important;
+  text-decoration: none !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-image: url(../assets/bg1.png);
+  background-size: cover;
+  background-position: center;
+}
+
